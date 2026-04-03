@@ -6,7 +6,7 @@ I bridge the gap between technical efficiency and thoughtful design. My mission 
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 | Category | Stack |
 | :--- | :--- |
@@ -17,7 +17,7 @@ I bridge the gap between technical efficiency and thoughtful design. My mission 
 
 ---
 
-### 👨‍💻 What I'm Working On
+### Current goals and working areas
 
 * **System Design & Architecture** Moving beyond "just coding" to understand how components interact for maximum reliability and scalability.
 * **Full-Stack Development** Building interactive UIs with **React** powered by robust **Java** and **Python** backend logic.
@@ -25,7 +25,7 @@ I bridge the gap between technical efficiency and thoughtful design. My mission 
 
 ---
 
-### 💡 My Mindset
+### About me
 
 I believe great engineering is about **solving problems**, not just writing lines of code. I constantly evolve my workflow by:
 
@@ -35,7 +35,7 @@ I believe great engineering is about **solving problems**, not just writing line
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect!
 
 I’m always looking to collaborate on purposeful projects that require persistence and brilliance.
 
